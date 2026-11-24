@@ -107,9 +107,14 @@ Ablation experiments show that using one shared BN configuration instead of data
 ## Citation
 
 If UNIFY is useful in your research, please cite the associated paper:
-
-**Shaharyar Ahmed Khan Tareen** and **Xiaojing Yuan**, *UNIFY: Unified Learning with One Model via Batch Norm Switching*, University of Houston, TX, USA.
-
+```bibtex
+@article{tareen2026unify,
+  title={UNIFY: Unified Learning with One Model via Batch Norm Switching},
+  author={Tareen, Shaharyar Ahmed Khan and Yuan, Xiaojing},
+  journal={arXiv preprint arXiv:2611.28746},
+  year={2026}
+}
+```
 ## Authors
 
 - **Shaharyar Ahmed Khan Tareen** — University of Houston, TX, USA
